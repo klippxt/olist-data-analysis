@@ -4,7 +4,7 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626?logo=jupyter&logoColor=white)
 
-Серия учебных работ по анализу данных (курс «Python и Data Science», Университет ИТМО) на датасете бразильского e-commerce Olist. От векторизации на NumPy до временных рядов, обнаружения аномалий и когортного анализа.
+Серия учебных работ по анализу данных (курс Python и анализ данных, ИТМО) на датасете бразильского e-commerce Olist.
 
 ## Работы
 
