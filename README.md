@@ -8,16 +8,16 @@
 
 ## Работы
 
-**[lab1 — NumPy: векторизация](lab1_numpy_vectorization.ipynb)**
+**[lab1 — NumPy: векторизация](olist-data-analysis/lab1_numpy_vectorization.ipynb)**
 Векторизованные вычисления вместо циклов: скидки через `np.select`, объёмный вес товаров, выручка через скалярное произведение, поиск аномальных цен по правилу 3σ. Бенчмарк цикла против векторизации (`%timeit`), ускорение примерно в 50 раз.
 
-**[lab2 — pandas: очистка и индексация](lab2_pandas_cleaning.ipynb)**
+**[lab2 — pandas: очистка и индексация](olist-data-analysis/lab2_pandas_cleaning.ipynb)**
 Типизация дат, дедупликация отзывов по `order_id` с сохранением последнего, нормализация текста (lower, regex), корректная работа со строковыми zip-кодами, маски и выборки по условиям, `set_index` и доступ по метке.
 
-**[lab4 — Временные ряды и SLA](lab4_time_series_sla.ipynb)**
+**[lab4 — Временные ряды и SLA](olist-data-analysis/lab4_time_series_sla.ipynb)**
 Срок доставки в рабочих днях, анализ просрочек (SLA breach), дневная выручка на непрерывной сетке дат, пиковые часы заказов по дням недели. С графиками.
 
-**[lab5 — Визуализация и когорты](lab5_visualization_cohorts.ipynb)**
+**[lab5 — Визуализация и когорты](olist-data-analysis/lab5_visualization_cohorts.ipynb)**
 Hexbin и KDE связи цены и стоимости доставки, скользящие 30-дневные μ/σ и обнаружение аномалий по Z-score, матрица активности, когортная матрица удержания. Seaborn, matplotlib, gridspec.
 
 ## Данные
